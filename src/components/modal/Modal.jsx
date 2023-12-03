@@ -1,4 +1,4 @@
-import Reacr from 'react';
+import React from 'react';
 import { useSelector } from 'react-redux';
 import { ModalWrapper } from './Modal.style';
 import { useDispatch } from 'react-redux';
