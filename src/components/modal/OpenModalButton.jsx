@@ -1,6 +1,6 @@
 import React from 'react';
 import { useDispatch } from 'react-redux';
-import { OPEN_MODAL } from '../../reducer';
+import { OPEN_MODAL } from '../../reducer/modal';
 
 export default function OpenModalButton() {
 

@@ -34,4 +34,4 @@ const modalReducer = (state = initialState, action) => {
     }
 }
 
-export default rootReducer;
+export default modalReducer;

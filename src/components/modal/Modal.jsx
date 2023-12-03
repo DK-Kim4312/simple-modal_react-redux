@@ -2,7 +2,7 @@ import Reacr from 'react';
 import { useSelector } from 'react-redux';
 import { ModalWrapper } from './Modal.style';
 import { useDispatch } from 'react-redux';
-import { CLOSE_MODAL } from '../../reducer';
+import { CLOSE_MODAL } from '../../reducer/modal';
 
 
 export default function Modal() {
